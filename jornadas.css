@@ -23,8 +23,10 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 32px;
 }
+
+
 
 /* Create three unequal columns that floats next to each other */
 .column {
@@ -32,6 +34,7 @@ body {
   padding: 10px;
   
 }
+
 
 /* Left and right column */
 .column.left {
@@ -98,12 +101,6 @@ tr.talk {
 tr.invited {
   background-color: #F8C471;
 }
-
-
-
-
-
-
 
 
 
